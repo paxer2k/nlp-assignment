@@ -34,16 +34,25 @@ def create_knowledge_graph(qa_dict):
 
     return knowledge_graph
 
+
 # calculate similarity score between the question that was asked by the user and the actual question in the data
 def calculate_similarity(question_asked, actual_question):
 
     if not question_asked or not actual_question:
         return 0  # Return zero similarity for empty inputs
 
-    doc_asked = nlp(question_asked)
-    doc_actual = nlp(actual_question)
+    # Preprocess and extract keywords from questions
+    doc_asked = nlp(question_asked.lower())
+    doc_actual = nlp(actual_question.lower())
+
+    keywords_asked = [token.text for token in doc_asked if not token.is_stop]
+    keywords_actual = [token.text for token in doc_actual if not token.is_stop]
+
+    # Calculate similarity based on extracted keywords
+    similarity = len(set(keywords_asked).intersection(keywords_actual)) / len(set(keywords_actual))
+
+    return similarity
     
-    return doc_asked.similarity(doc_actual)
 
 # get an approriate answer for the question asked by the user
 def get_answer(user_input, knowledge_graph):
@@ -53,6 +62,7 @@ def get_answer(user_input, knowledge_graph):
     best_question = None
 
     for question in knowledge_graph:
+
         similarity = calculate_similarity(user_input, question)
         if similarity > max_similarity:
             max_similarity = similarity

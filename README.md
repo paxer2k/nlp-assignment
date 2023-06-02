@@ -59,16 +59,23 @@ Python version: 3.9.13
 ## Description of the application
 
 1. Purpose of the application<br>
-   This application is composed of a simple Chatbot that takes a question as the input and gives an answer as the output. 
-   The Chatbot is trained based on a knowledge graph which consists of questions and answers that is retrieved from a JSON file.
-   The data for the knowledge graph comes from random trivia questions. This data can be always added to the JSON file and the application will automatically update the dictionary after the application is relaunched.
+   	This application is composed of a simple Chatbot that takes a question as the input and gives an answer as the output. 
+   	The Chatbot is trained based on a knowledge graph which consists of questions and answers that is retrieved from a JSON file.
+   	The data for the knowledge graph comes from random trivia questions. This data can be always added to the JSON file and the application will automatically update the dictionary after the application is relaunched.
 
 2. How the application works<br>
-   The application makes use of the spacy model (en_core_web_md) which is in a nutshell serves as an English tokenizer, tagger, parser and NER (named entity recognition
-   The application starts off by reading out the JSON file which contains the questions and answers and stores them into a dictionary where keys serve as the questions and answers as the values. It is important to note that for this application is only one answer per question.
-   The application then consturcts a knowledge graph based on this dictionary where it loops through the items and adds question-answer pairs to the nodes and edges between the nodes to represent the relationship between them. For each question-answer pair, a subject-relation-object triplet is created.
-   The application then proceeds to ask the user for the input (question) for which it executes a method for retrieving the answer to the question.
-   This function makes use of the knowledge graph by extracting the question nodes and calculating the similarity scores between the actual question and the ones asked by the user.
-   Based on this, similarity scores will be calculated and it will take the highest similarity score and compares it to the threshold of 0.5 and if it is above that, it will return that as the answer, otherwise it will say that the question is not understood.
-   The process of asking a question and receiving an answer will continue for as long as the user does not type "quit", "exit", or "stop".
+   	The application makes use of the spacy model (en_core_web_md) which is in a nutshell serves as an English tokenizer, tagger, parser and NER (named entity recognition
+   	The application starts off by reading out the JSON file which contains the questions and answers and stores them into a dictionary where keys serve as the questions and answers as the values. It is important to note that for this application is only one answer per question.
+   	The application then consturcts a knowledge graph based on this dictionary where it loops through the items and adds question-answer pairs to the nodes and edges between the nodes to represent the relationship between them. For each question-answer pair, a subject-relation-object triplet is created.
+   	The application then proceeds to ask the user for the input (question) for which it executes a method for retrieving the answer to the question.
+   	This function makes use of the knowledge graph by extracting the question nodes and calculating the similarity scores between the actual question and the ones asked by the user.
+   	Based on this, similarity scores will be calculated and it will take the highest similarity score and compares it to the threshold of 0.5 and if it is above that, it will return that as the answer, otherwise it will say that the question is not understood.
+   	The process of asking a question and receiving an answer will continue for as long as the user does not type "quit", "exit", or "stop".
+
+3. Demonstration of the application<br>
+   Example questions to ask:
+	* What is the capital of France(original) -> The capital of France is? (variation 1) -> How is the capital of France called? (variation 2) -> Please give me capital of France (variation 3)
+	* What is the largest planet in our solar system? (original) -> In the solar system, what is the largest planet? (variation 1) -> The largest planet within the solar system is what? (variation 2) -> Solar system's largest planet is? (variation 3)
+	* Who is the Norse god of thunder? (original) -> In terms of Norse mythodology, who is referred to as the god of thunder? (variation 1) -> Who is the almighty god of thunder? (variation 2) -> Do you know the name of the thunder god? (variation 3)
+	
    
