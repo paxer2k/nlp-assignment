@@ -51,7 +51,7 @@ Python version: 3.9.13
 
 1. Quit the Python script/application
 
-   ```
+   ```bash
    # When you are running the app use any of these three to quit by writing them into the console
    quit OR exit OR stop
    ```
