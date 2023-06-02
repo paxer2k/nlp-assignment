@@ -58,12 +58,12 @@ Python version: 3.9.13
 
 ## Description of the application
 
-1. Purpose of the application
+1. Purpose of the application<br>
    This application is composed of a simple Chatbot that takes a question as the input and gives an answer as the output. 
    The Chatbot is trained based on a knowledge graph which consists of questions and answers that is retrieved from a JSON file.
    The data for the knowledge graph comes from random trivia questions. This data can be always added to the JSON file and the application will automatically update the dictionary after the application is relaunched.
 
-2. How the application works
+2. How the application works<br>
    The application makes use of the spacy model (en_core_web_md) which is in a nutshell serves as an English tokenizer, tagger, parser and NER (named entity recognition
    The application starts off by reading out the JSON file which contains the questions and answers and stores them into a dictionary where keys serve as the questions and answers as the values. It is important to note that for this application is only one answer per question.
    The application then consturcts a knowledge graph based on this dictionary where it loops through the items and adds question-answer pairs to the nodes and edges between the nodes to represent the relationship between them.
