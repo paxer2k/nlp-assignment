@@ -18,17 +18,21 @@ def read_json_file(file_path):
 
     return qa_dict
 
-# create a knowledge graph based on the dictionary and store the question & answers into nodes and create relationship through edges
+
+#create a knowledge graph based on the dictionary and store the question & answers into nodes and create relationship through edges
 def create_knowledge_graph(qa_dict):
     knowledge_graph = nx.Graph()
 
     for question, answer in qa_dict.items():
-        knowledge_graph.add_node(question)
-        knowledge_graph.add_node(answer)
-        knowledge_graph.add_edge(question, answer)
+        subject = question
+        relation = 'has_answer'
+        object = answer
+
+        knowledge_graph.add_node(subject)
+        knowledge_graph.add_node(object)
+        knowledge_graph.add_edge(subject, object, relation=relation)
 
     return knowledge_graph
-
 
 # calculate similarity score between the question that was asked by the user and the actual question in the data
 def calculate_similarity(question_asked, actual_question):
@@ -62,7 +66,7 @@ def get_answer(user_input, knowledge_graph):
     # convert the answer into a singular string from the knowledge base dictionary
     return next(iter(best_question.keys()))
 
-# define main function
+# define main function and execute the code from here
 def main():
     file_path = 'qa_dataset.json'
     dictionary = read_json_file(file_path)
