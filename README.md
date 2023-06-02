@@ -3,8 +3,8 @@
 
 ## Student information
 
-Name: Alexander Arkhipov
-Student number: 647833
+Name: Alexander Arkhipov<br>
+Student number: 647833<br>
 Python version: 3.9.13
 
 
