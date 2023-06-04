@@ -45,10 +45,11 @@ def calculate_similarity(question_asked, actual_question):
     doc_asked = nlp(question_asked.lower())
     doc_actual = nlp(actual_question.lower())
 
+    # Tokenize the sentences, assign attributes to each word (token) and extract keyword by getting rid of stop words ('is', 'the' 'and')
     keywords_asked = [token.text for token in doc_asked if not token.is_stop]
     keywords_actual = [token.text for token in doc_actual if not token.is_stop]
 
-    # Calculate similarity based on extracted keywords
+    # Calculate similarity based on extracted keywords (tokens)
     similarity = len(set(keywords_asked).intersection(keywords_actual)) / len(set(keywords_actual))
 
     return similarity
