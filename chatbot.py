@@ -1,6 +1,7 @@
 import json
 import spacy
 import networkx as nx
+import pandas as pd
 
 # Load English tokenizer, tagger, parser and NER
 nlp = spacy.load("en_core_web_md") 
@@ -38,9 +39,6 @@ def create_knowledge_graph(qa_dict):
 # calculate similarity score between the question that was asked by the user and the actual question in the data
 def calculate_similarity(question_asked, actual_question):
 
-    if not question_asked or not actual_question:
-        return 0  # Return zero similarity for empty inputs
-
     # Preprocess and extract keywords from questions
     doc_asked = nlp(question_asked.lower())
     doc_actual = nlp(actual_question.lower())
@@ -50,7 +48,7 @@ def calculate_similarity(question_asked, actual_question):
     keywords_actual = [token.text for token in doc_actual if not token.is_stop]
 
     # Calculate similarity based on extracted keywords (tokens)
-    similarity = len(set(keywords_asked).intersection(keywords_actual)) / len(set(keywords_actual))
+    similarity = len(set(keywords_asked).intersection(keywords_actual)) / len(set(keywords_asked))
 
     return similarity
     
@@ -77,13 +75,23 @@ def get_answer(user_input, knowledge_graph):
     # convert the answer into a singular string from the knowledge base dictionary
     return next(iter(best_question.keys()))
 
+def display_examples(qa_DF):
+    print("\nExample of available questions:")
+    print(qa_DF['Question'].head().to_string(header=False))
+    print(qa_DF['Question'].tail().to_string(header=False))
+    print()
+
 # define main function and execute the code from here
 def main():
+    qa_DF = pd.read_json("qa_dataset.json") # for displaying first and last few rows
     file_path = 'qa_dataset.json'
     dictionary = read_json_file(file_path)
     knowledge_graph = create_knowledge_graph(dictionary)
 
+    display_examples(qa_DF)
+
     while True:
+
         user_input = input("Your question: ")
 
         if user_input in ['exit', 'quit', 'stop']:
