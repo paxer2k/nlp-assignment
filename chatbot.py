@@ -2,9 +2,14 @@ import json
 import spacy
 import networkx as nx
 import pandas as pd
+import textacy
+import wikipediaapi
 
 # Load English tokenizer, tagger, parser and NER
-nlp = spacy.load("en_core_web_md") 
+nlp = spacy.load("en_core_web_md")
+
+# Create instance of wiki
+wiki_wiki = wikipediaapi.Wikipedia('en')
 
 # read out JSON file and fill dictionary with questions and answers
 def read_json_file(file_path):
@@ -79,6 +84,7 @@ def display_examples(qa_DF):
     print(qa_DF['Question'].head().to_string(header=False))
     print(qa_DF['Question'].tail().to_string(header=False))
     print()
+
 
 # define main function and execute the code from here
 def main():
