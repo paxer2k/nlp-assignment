@@ -58,14 +58,13 @@ def get_answer(user_input, knowledge_graph):
     user_input = user_input.lower()
 
     max_similarity = 0.0
-    best_question = None
+    best_answer = None
 
-    for question in knowledge_graph:
-
+    for question in knowledge_graph.nodes:
         similarity = calculate_similarity(user_input, question)
         if similarity > max_similarity:
             max_similarity = similarity
-            best_question = knowledge_graph[question]
+            best_answer = knowledge_graph[question]
 
     print(f'{max_similarity}')
     # Check if the similarity exceeds a certain threshold
@@ -73,7 +72,7 @@ def get_answer(user_input, knowledge_graph):
         return "Sorry, I don't have information about that question."
 
     # convert the answer into a singular string from the knowledge base dictionary
-    return next(iter(best_question.keys()))
+    return next(iter(best_answer.keys()))
 
 def display_examples(qa_DF):
     print("\nExample of available questions:")
