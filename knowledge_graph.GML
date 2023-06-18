@@ -1,0 +1,2180 @@
+graph [
+  directed 1
+  node [
+    id 0
+    label "gandhi"
+  ]
+  node [
+    id 1
+    label "movements"
+  ]
+  node [
+    id 2
+    label "family"
+  ]
+  node [
+    id 3
+    label "resistance"
+  ]
+  node [
+    id 4
+    label "campaigns"
+  ]
+  node [
+    id 5
+    label "dhoti"
+  ]
+  node [
+    id 6
+    label "to live in a self - sufficient residential community , to eat simple food , and undertake long fasts as a means of both introspection and political protest"
+  ]
+  node [
+    id 7
+    label "indians"
+  ]
+  node [
+    id 8
+    label "areas"
+  ]
+  node [
+    id 9
+    label "hunger strikes"
+  ]
+  node [
+    id 10
+    label "who"
+  ]
+  node [
+    id 11
+    label "education"
+  ]
+  node [
+    id 12
+    label "permission"
+  ]
+  node [
+    id 13
+    label "sister"
+  ]
+  node [
+    id 14
+    label "mother"
+  ]
+  node [
+    id 15
+    label "school"
+  ]
+  node [
+    id 16
+    label "rudiments"
+  ]
+  node [
+    id 17
+    label "year"
+  ]
+  node [
+    id 18
+    label "to make up by accelerating gandhi studies"
+  ]
+  node [
+    id 19
+    label "deaths"
+  ]
+  node [
+    id 20
+    label "wife family"
+  ]
+  node [
+    id 21
+    label "to go"
+  ]
+  node [
+    id 22
+    label "vow"
+  ]
+  node [
+    id 23
+    label "elders"
+  ]
+  node [
+    id 24
+    label "religion"
+  ]
+  node [
+    id 25
+    label "this"
+  ]
+  node [
+    id 26
+    label "brother"
+  ]
+  node [
+    id 27
+    label "university college"
+  ]
+  node [
+    id 28
+    label "classes"
+  ]
+  node [
+    id 29
+    label "traits"
+  ]
+  node [
+    id 30
+    label "practice group"
+  ]
+  node [
+    id 31
+    label "shyness"
+  ]
+  node [
+    id 32
+    label "members"
+  ]
+  node [
+    id 33
+    label "view"
+  ]
+  node [
+    id 34
+    label "hills"
+  ]
+  node [
+    id 35
+    label "views"
+  ]
+  node [
+    id 36
+    label "to stop when gandhi ran afoul of a british officer sam"
+  ]
+  node [
+    id 37
+    label "salary"
+  ]
+  node [
+    id 38
+    label "discrimination"
+  ]
+  node [
+    id 39
+    label "magistrate"
+  ]
+  node [
+    id 40
+    label "which to do"
+  ]
+  node [
+    id 41
+    label "police officer"
+  ]
+  node [
+    id 42
+    label "prejudice"
+  ]
+  node [
+    id 43
+    label "to question gandhi people 's standing in the british empire.the abdullah case that had brought gandhi to south africa concluded in may 1894 , and the indian community organised a farewell party for gandhi as gandhi prepared to return to india"
+  ]
+  node [
+    id 44
+    label "that"
+  ]
+  node [
+    id 45
+    label "to return to india"
+  ]
+  node [
+    id 46
+    label "to assist indians in opposing a bill to deny indians the right to vote"
+  ]
+  node [
+    id 47
+    label "joseph chamberlain"
+  ]
+  node [
+    id 48
+    label "found the natal indian congress in 1894 , and"
+  ]
+  node [
+    id 49
+    label "community"
+  ]
+  node [
+    id 50
+    label "mob"
+  ]
+  node [
+    id 51
+    label "to press charges against any member of the mob"
+  ]
+  node [
+    id 52
+    label "volunteers"
+  ]
+  node [
+    id 53
+    label "methodology"
+  ]
+  node [
+    id 54
+    label "text tirukku&#7771;a&#7735;"
+  ]
+  node [
+    id 55
+    label "these"
+  ]
+  node [
+    id 56
+    label "politics"
+  ]
+  node [
+    id 57
+    label "persecution"
+  ]
+  node [
+    id 58
+    label "officials"
+  ]
+  node [
+    id 59
+    label "to focus on racism against africans"
+  ]
+  node [
+    id 60
+    label "race history opinions"
+  ]
+  node [
+    id 61
+    label "unit"
+  ]
+  node [
+    id 62
+    label "policy"
+  ]
+  node [
+    id 63
+    label "reputation"
+  ]
+  node [
+    id 64
+    label "national congress"
+  ]
+  node [
+    id 65
+    label "approach"
+  ]
+  node [
+    id 66
+    label "independence"
+  ]
+  node [
+    id 67
+    label "viceroy"
+  ]
+  node [
+    id 68
+    label "to actively recruit indians for the war effort"
+  ]
+  node [
+    id 69
+    label "to recruit combatants"
+  ]
+  node [
+    id 70
+    label "to bring about such a state of things we should have the ability to defend ourselves , that is , the ability to bear arms and to use arms"
+  ]
+  node [
+    id 71
+    label "administration"
+  ]
+  node [
+    id 72
+    label "concessions"
+  ]
+  node [
+    id 73
+    label "headquarters"
+  ]
+  node [
+    id 74
+    label "signature campaign"
+  ]
+  node [
+    id 75
+    label "crown"
+  ]
+  node [
+    id 76
+    label "satyagraha"
+  ]
+  node [
+    id 77
+    label "khilafat movement"
+  ]
+  node [
+    id 78
+    label "to start civil disobedience"
+  ]
+  node [
+    id 79
+    label "government"
+  ]
+  node [
+    id 80
+    label "crowd"
+  ]
+  node [
+    id 81
+    label "frustration"
+  ]
+  node [
+    id 82
+    label "use"
+  ]
+  node [
+    id 83
+    label "order"
+  ]
+  node [
+    id 84
+    label "british"
+  ]
+  node [
+    id 85
+    label "countrymen"
+  ]
+  node [
+    id 86
+    label "events massacre response"
+  ]
+  node [
+    id 87
+    label "attention"
+  ]
+  node [
+    id 88
+    label "congress"
+  ]
+  node [
+    id 89
+    label "support attention"
+  ]
+  node [
+    id 90
+    label "- operation platform"
+  ]
+  node [
+    id 91
+    label "men women"
+  ]
+  node [
+    id 92
+    label "journey"
+  ]
+  node [
+    id 93
+    label "sentence"
+  ]
+  node [
+    id 94
+    label "call"
+  ]
+  node [
+    id 95
+    label "ultimatum"
+  ]
+  node [
+    id 96
+    label "rule"
+  ]
+  node [
+    id 97
+    label "kilometres"
+  ]
+  node [
+    id 98
+    label "thousands"
+  ]
+  node [
+    id 99
+    label "his"
+  ]
+  node [
+    id 100
+    label "hero indian congress"
+  ]
+  node [
+    id 101
+    label "civilisation"
+  ]
+  node [
+    id 102
+    label "imagination"
+  ]
+  node [
+    id 103
+    label "going from one rural corner of the indian subcontinent to another"
+  ]
+  node [
+    id 104
+    label "to attend the round table conference in london for discussions and as the sole representative of the indian national congress"
+  ]
+  node [
+    id 105
+    label "to discuss india 's independence"
+  ]
+  node [
+    id 106
+    label "to negate irwin influence by completely isolating irwin from irwin followers.in britain"
+  ]
+  node [
+    id 107
+    label "churchill"
+  ]
+  node [
+    id 108
+    label "constitution"
+  ]
+  node [
+    id 109
+    label "india"
+  ]
+  node [
+    id 110
+    label "offer"
+  ]
+  node [
+    id 111
+    label "east enders"
+  ]
+  node [
+    id 112
+    label "links"
+  ]
+  node [
+    id 113
+    label "to avoid being a target for raj propaganda by leading a party that had temporarily accepted political accommodation with the raj.gandhi returned to active politics again in 1936 , with the nehru presidency and the lucknow session of the congress"
+  ]
+  node [
+    id 114
+    label "focus"
+  ]
+  node [
+    id 115
+    label "clash"
+  ]
+  node [
+    id 116
+    label "movement gandhi"
+  ]
+  node [
+    id 117
+    label "struggle"
+  ]
+  node [
+    id 118
+    label "wavell"
+  ]
+  node [
+    id 119
+    label "what"
+  ]
+  node [
+    id 120
+    label "writers"
+  ]
+  node [
+    id 121
+    label "others"
+  ]
+  node [
+    id 122
+    label "reflections literature"
+  ]
+  node [
+    id 123
+    label "dvaitist viewpoints pluralism.gandhi"
+  ]
+  node [
+    id 124
+    label "values"
+  ]
+  node [
+    id 125
+    label "living"
+  ]
+  node [
+    id 126
+    label "solution"
+  ]
+  node [
+    id 127
+    label "concepts"
+  ]
+  node [
+    id 128
+    label "vaishnavism jainism advaita vedanta"
+  ]
+  node [
+    id 129
+    label "hinduism jainism"
+  ]
+  node [
+    id 130
+    label "reforms teachings"
+  ]
+  node [
+    id 131
+    label "to tolstoy seeking advice and permission to republish a letter to a hindu in gujarati"
+  ]
+  node [
+    id 132
+    label "non - resistance"
+  ]
+  node [
+    id 133
+    label "letters"
+  ]
+  node [
+    id 134
+    label "ruskin"
+  ]
+  node [
+    id 135
+    label "texts"
+  ]
+  node [
+    id 136
+    label "theology"
+  ]
+  node [
+    id 137
+    label "conversion"
+  ]
+  node [
+    id 138
+    label "gita"
+  ]
+  node [
+    id 139
+    label "khanqah gatherings"
+  ]
+  node [
+    id 140
+    label "winston churchill"
+  ]
+  node [
+    id 141
+    label "boers british"
+  ]
+  node [
+    id 142
+    label "british forces"
+  ]
+  node [
+    id 143
+    label "pacifists"
+  ]
+  node [
+    id 144
+    label "which"
+  ]
+  node [
+    id 145
+    label "to oppose any help to the british war effort and any indian participation in the war by launching quit india movement"
+  ]
+  node [
+    id 146
+    label "dennis dalton"
+  ]
+  node [
+    id 147
+    label "beliefs"
+  ]
+  node [
+    id 148
+    label "statement"
+  ]
+  node [
+    id 149
+    label "term god"
+  ]
+  node [
+    id 150
+    label "philosophy ideas"
+  ]
+  node [
+    id 151
+    label "people"
+  ]
+  node [
+    id 152
+    label "act"
+  ]
+  node [
+    id 153
+    label "quran"
+  ]
+  node [
+    id 154
+    label "islam"
+  ]
+  node [
+    id 155
+    label "biography"
+  ]
+  node [
+    id 156
+    label "muslim following"
+  ]
+  node [
+    id 157
+    label "who to join gandhi in a mutual nonviolent jihad against the social oppression of non time"
+  ]
+  node [
+    id 158
+    label "hindus views"
+  ]
+  node [
+    id 159
+    label "muslims"
+  ]
+  node [
+    id 160
+    label "interpreters"
+  ]
+  node [
+    id 161
+    label "teachings"
+  ]
+  node [
+    id 162
+    label "leadership support"
+  ]
+  node [
+    id 163
+    label "mustafa kemal atat&#252;rk"
+  ]
+  node [
+    id 164
+    label "reason"
+  ]
+  node [
+    id 165
+    label "ideas"
+  ]
+  node [
+    id 166
+    label "partition"
+  ]
+  node [
+    id 167
+    label "having muslim prayers read in hindu temples to play gandhi part"
+  ]
+  node [
+    id 168
+    label "laws"
+  ]
+  node [
+    id 169
+    label "support"
+  ]
+  node [
+    id 170
+    label "texts history"
+  ]
+  node [
+    id 171
+    label "zionism"
+  ]
+  node [
+    id 172
+    label "stance"
+  ]
+  node [
+    id 173
+    label "to understand and reduce the violence in what one consumes because &#34; there is essential unity of all not having the intent as well as active efforts to minimise hurt , injury or suffering to all life forms"
+  ]
+  node [
+    id 174
+    label "not having the intent as well as active efforts to minimise hurt , injury or suffering to all life forms"
+  ]
+  node [
+    id 175
+    label "food sources"
+  ]
+  node [
+    id 176
+    label "meat eggs milk"
+  ]
+  node [
+    id 177
+    label "book basis"
+  ]
+  node [
+    id 178
+    label "motivation"
+  ]
+  node [
+    id 179
+    label "to find the most non - violent vegetarian meal that the poorest human could afford"
+  ]
+  node [
+    id 180
+    label "fruits"
+  ]
+  node [
+    id 181
+    label "medication"
+  ]
+  node [
+    id 182
+    label "women gandhi"
+  ]
+  node [
+    id 183
+    label "purdah child marriage dowry sati"
+  ]
+  node [
+    id 184
+    label "hindu mother"
+  ]
+  node [
+    id 185
+    label "legends"
+  ]
+  node [
+    id 186
+    label "belief"
+  ]
+  node [
+    id 187
+    label "experiments"
+  ]
+  node [
+    id 188
+    label "abstaining from cow 's milk in 1912"
+  ]
+  node [
+    id 189
+    label "doctors"
+  ]
+  node [
+    id 190
+    label "tagore"
+  ]
+  node [
+    id 191
+    label "being naked with several &#34; women or girls &#34;"
+  ]
+  node [
+    id 192
+    label "bed"
+  ]
+  node [
+    id 193
+    label "sex"
+  ]
+  node [
+    id 194
+    label "anything"
+  ]
+  node [
+    id 195
+    label "word"
+  ]
+  node [
+    id 196
+    label "campaign"
+  ]
+  node [
+    id 197
+    label "whom"
+  ]
+  node [
+    id 198
+    label "whom time"
+  ]
+  node [
+    id 199
+    label "whom to call harijans"
+  ]
+  node [
+    id 200
+    label "day fast"
+  ]
+  node [
+    id 201
+    label "ambedkar"
+  ]
+  node [
+    id 202
+    label "assassination attempt"
+  ]
+  node [
+    id 203
+    label "announcement"
+  ]
+  node [
+    id 204
+    label "intermarriage"
+  ]
+  node [
+    id 205
+    label "education system one"
+  ]
+  node [
+    id 206
+    label "to formulate the new system at the sevagram ashram after 1937"
+  ]
+  node [
+    id 207
+    label "society"
+  ]
+  node [
+    id 208
+    label "letter"
+  ]
+  node [
+    id 209
+    label "saying , &#34; in my experience , it is far more important to have a charter for human duties"
+  ]
+  node [
+    id 210
+    label "democracy"
+  ]
+  node [
+    id 211
+    label "jinnah"
+  ]
+  node [
+    id 212
+    label "state"
+  ]
+  node [
+    id 213
+    label "to endorse the view that economic forces are best understood as &#34; antagonistic class interests"
+  ]
+  node [
+    id 214
+    label "capitalism view"
+  ]
+  node [
+    id 215
+    label "newspapers"
+  ]
+  node [
+    id 216
+    label "books"
+  ]
+  node [
+    id 217
+    label "edition"
+  ]
+  node [
+    id 218
+    label "translations"
+  ]
+  node [
+    id 219
+    label "songs"
+  ]
+  node [
+    id 220
+    label "historian stanley wolpert"
+  ]
+  node [
+    id 221
+    label "asiaweek"
+  ]
+  node [
+    id 222
+    label "gandhi stamps"
+  ]
+  node [
+    id 223
+    label "activist president"
+  ]
+  node [
+    id 224
+    label "succeeding generations of south african activists seeking to end white rule"
+  ]
+  node [
+    id 225
+    label "physicist albert einstein"
+  ]
+  node [
+    id 226
+    label "omar"
+  ]
+  node [
+    id 227
+    label "list"
+  ]
+  node [
+    id 228
+    label "nobel peace prize"
+  ]
+  node [
+    id 229
+    label "father"
+  ]
+  node [
+    id 230
+    label "bose"
+  ]
+  node [
+    id 231
+    label "bapu"
+  ]
+  node [
+    id 232
+    label "ben kingsley"
+  ]
+  node [
+    id 233
+    label "i"
+  ]
+  node [
+    id 234
+    label "to judge gandhi at the last judgement to be featured on the album cover of one of the best selling albums of the beatles , sgt . pepper 's lonely hearts club band"
+  ]
+  node [
+    id 235
+    label "to be featured on the album cover of one of the best selling albums of the beatles , sgt . pepper 's lonely hearts club band"
+  ]
+  node [
+    id 236
+    label "gandhi ambedkar"
+  ]
+  node [
+    id 237
+    label "credit"
+  ]
+  edge [
+    source 0
+    target 1
+    relation "inspired"
+  ]
+  edge [
+    source 0
+    target 2
+    relation "raised"
+  ]
+  edge [
+    source 0
+    target 3
+    relation "employed"
+  ]
+  edge [
+    source 0
+    target 4
+    relation "led"
+  ]
+  edge [
+    source 0
+    target 5
+    relation "adopted"
+  ]
+  edge [
+    source 0
+    target 6
+    relation "began"
+  ]
+  edge [
+    source 0
+    target 7
+    relation "urged"
+  ]
+  edge [
+    source 0
+    target 8
+    relation "visited"
+  ]
+  edge [
+    source 0
+    target 9
+    relation "undertook"
+  ]
+  edge [
+    source 0
+    target 11
+    relation "had"
+  ]
+  edge [
+    source 0
+    target 12
+    relation "sought"
+  ]
+  edge [
+    source 0
+    target 13
+    relation "was described"
+  ]
+  edge [
+    source 0
+    target 14
+    relation "was influenced"
+  ]
+  edge [
+    source 0
+    target 15
+    relation "joined"
+  ]
+  edge [
+    source 0
+    target 16
+    relation "studied"
+  ]
+  edge [
+    source 0
+    target 17
+    relation "lost"
+  ]
+  edge [
+    source 0
+    target 18
+    relation "was allowed"
+  ]
+  edge [
+    source 0
+    target 20
+    relation "leaving"
+  ]
+  edge [
+    source 0
+    target 21
+    relation "wanted"
+  ]
+  edge [
+    source 0
+    target 22
+    relation "made"
+  ]
+  edge [
+    source 0
+    target 24
+    relation "imported"
+  ]
+  edge [
+    source 0
+    target 23
+    relation "informing"
+  ]
+  edge [
+    source 0
+    target 25
+    relation "accepted"
+  ]
+  edge [
+    source 0
+    target 27
+    relation "attended"
+  ]
+  edge [
+    source 0
+    target 28
+    relation "took"
+  ]
+  edge [
+    source 0
+    target 29
+    relation "retained"
+  ]
+  edge [
+    source 0
+    target 30
+    relation "joined"
+  ]
+  edge [
+    source 0
+    target 31
+    relation "overcame"
+  ]
+  edge [
+    source 0
+    target 33
+    relation "took"
+  ]
+  edge [
+    source 0
+    target 34
+    relation "to challenge"
+  ]
+  edge [
+    source 0
+    target 35
+    relation "expressed"
+  ]
+  edge [
+    source 0
+    target 36
+    relation "was forced"
+  ]
+  edge [
+    source 0
+    target 37
+    relation "accepted"
+  ]
+  edge [
+    source 0
+    target 38
+    relation "faced"
+  ]
+  edge [
+    source 0
+    target 40
+    relation "refused"
+  ]
+  edge [
+    source 0
+    target 41
+    relation "arrived"
+  ]
+  edge [
+    source 0
+    target 43
+    relation "began"
+  ]
+  edge [
+    source 0
+    target 45
+    relation "prepared"
+  ]
+  edge [
+    source 0
+    target 46
+    relation "planned"
+  ]
+  edge [
+    source 0
+    target 47
+    relation "asked"
+  ]
+  edge [
+    source 0
+    target 48
+    relation "helped"
+  ]
+  edge [
+    source 0
+    target 49
+    relation "moulded"
+  ]
+  edge [
+    source 0
+    target 0
+    relation "accused"
+  ]
+  edge [
+    source 0
+    target 51
+    relation "refused"
+  ]
+  edge [
+    source 0
+    target 52
+    relation "asked"
+  ]
+  edge [
+    source 0
+    target 53
+    relation "adopted"
+  ]
+  edge [
+    source 0
+    target 54
+    relation "was influenced"
+  ]
+  edge [
+    source 0
+    target 55
+    relation "took"
+  ]
+  edge [
+    source 0
+    target 56
+    relation "entered"
+  ]
+  edge [
+    source 0
+    target 57
+    relation "suffered"
+  ]
+  edge [
+    source 0
+    target 59
+    relation "started"
+  ]
+  edge [
+    source 0
+    target 60
+    relation "cited"
+  ]
+  edge [
+    source 0
+    target 61
+    relation "led"
+  ]
+  edge [
+    source 0
+    target 62
+    relation "nurtured"
+  ]
+  edge [
+    source 0
+    target 63
+    relation "brought"
+  ]
+  edge [
+    source 0
+    target 64
+    relation "joined"
+  ]
+  edge [
+    source 0
+    target 65
+    relation "transformed"
+  ]
+  edge [
+    source 0
+    target 66
+    relation "demanded"
+  ]
+  edge [
+    source 0
+    target 44
+    relation "denounced"
+  ]
+  edge [
+    source 0
+    target 68
+    relation "agreed"
+  ]
+  edge [
+    source 0
+    target 69
+    relation "attempted"
+  ]
+  edge [
+    source 0
+    target 70
+    relation "wrote"
+  ]
+  edge [
+    source 0
+    target 71
+    relation "took"
+  ]
+  edge [
+    source 0
+    target 72
+    relation "won"
+  ]
+  edge [
+    source 0
+    target 73
+    relation "moved"
+  ]
+  edge [
+    source 0
+    target 74
+    relation "initiated"
+  ]
+  edge [
+    source 0
+    target 75
+    relation "had supported"
+  ]
+  edge [
+    source 0
+    target 76
+    relation "started"
+  ]
+  edge [
+    source 0
+    target 77
+    relation "leveraged"
+  ]
+  edge [
+    source 0
+    target 67
+    relation "cautioned"
+  ]
+  edge [
+    source 0
+    target 78
+    relation "would appeal"
+  ]
+  edge [
+    source 0
+    target 80
+    relation "asked"
+  ]
+  edge [
+    source 0
+    target 81
+    relation "to express"
+  ]
+  edge [
+    source 0
+    target 82
+    relation "emphasised"
+  ]
+  edge [
+    source 0
+    target 83
+    relation "defied"
+  ]
+  edge [
+    source 0
+    target 84
+    relation "did not criticise"
+  ]
+  edge [
+    source 0
+    target 85
+    relation "criticised"
+  ]
+  edge [
+    source 0
+    target 87
+    relation "shifted"
+  ]
+  edge [
+    source 0
+    target 88
+    relation "did not restrain"
+  ]
+  edge [
+    source 0
+    target 89
+    relation "had"
+  ]
+  edge [
+    source 0
+    target 90
+    relation "expanded"
+  ]
+  edge [
+    source 0
+    target 91
+    relation "exhorted"
+  ]
+  edge [
+    source 0
+    target 92
+    relation "began"
+  ]
+  edge [
+    source 0
+    target 93
+    relation "began"
+  ]
+  edge [
+    source 0
+    target 94
+    relation "revised"
+  ]
+  edge [
+    source 0
+    target 95
+    relation "sent"
+  ]
+  edge [
+    source 0
+    target 96
+    relation "condemned"
+  ]
+  edge [
+    source 0
+    target 97
+    relation "marched"
+  ]
+  edge [
+    source 0
+    target 99
+    relation "should join"
+  ]
+  edge [
+    source 0
+    target 101
+    relation "criticised"
+  ]
+  edge [
+    source 0
+    target 102
+    relation "captured"
+  ]
+  edge [
+    source 0
+    target 103
+    relation "campaigned"
+  ]
+  edge [
+    source 0
+    target 104
+    relation "was invited"
+  ]
+  edge [
+    source 0
+    target 105
+    relation "expected"
+  ]
+  edge [
+    source 0
+    target 106
+    relation "failed"
+  ]
+  edge [
+    source 0
+    target 108
+    relation "opposed"
+  ]
+  edge [
+    source 0
+    target 109
+    relation "left"
+  ]
+  edge [
+    source 0
+    target 110
+    relation "declined"
+  ]
+  edge [
+    source 0
+    target 111
+    relation "was received"
+  ]
+  edge [
+    source 0
+    target 112
+    relation "renewed"
+  ]
+  edge [
+    source 0
+    target 113
+    relation "wanted"
+  ]
+  edge [
+    source 0
+    target 114
+    relation "wanted"
+  ]
+  edge [
+    source 0
+    target 115
+    relation "had"
+  ]
+  edge [
+    source 0
+    target 116
+    relation "campaigned"
+  ]
+  edge [
+    source 0
+    target 117
+    relation "called"
+  ]
+  edge [
+    source 0
+    target 122
+    relation "was influenced"
+  ]
+  edge [
+    source 0
+    target 123
+    relation "supported"
+  ]
+  edge [
+    source 0
+    target 124
+    relation "cultivated"
+  ]
+  edge [
+    source 0
+    target 125
+    relation "could not make"
+  ]
+  edge [
+    source 0
+    target 126
+    relation "found"
+  ]
+  edge [
+    source 0
+    target 127
+    relation "developed"
+  ]
+  edge [
+    source 0
+    target 128
+    relation "was influenced"
+  ]
+  edge [
+    source 0
+    target 129
+    relation "was influenced"
+  ]
+  edge [
+    source 0
+    target 130
+    relation "was influenced"
+  ]
+  edge [
+    source 0
+    target 131
+    relation "wrote"
+  ]
+  edge [
+    source 0
+    target 132
+    relation "preached"
+  ]
+  edge [
+    source 0
+    target 133
+    relation "wrote"
+  ]
+  edge [
+    source 0
+    target 135
+    relation "joined"
+  ]
+  edge [
+    source 0
+    target 136
+    relation "did not accept"
+  ]
+  edge [
+    source 0
+    target 137
+    relation "refused"
+  ]
+  edge [
+    source 0
+    target 134
+    relation "led"
+  ]
+  edge [
+    source 0
+    target 138
+    relation "translated"
+  ]
+  edge [
+    source 0
+    target 139
+    relation "attended"
+  ]
+  edge [
+    source 0
+    target 141
+    relation "wrote"
+  ]
+  edge [
+    source 0
+    target 142
+    relation "supported"
+  ]
+  edge [
+    source 0
+    target 145
+    relation "campaigned"
+  ]
+  edge [
+    source 0
+    target 144
+    relation "tabled"
+  ]
+  edge [
+    source 0
+    target 147
+    relation "wrote"
+  ]
+  edge [
+    source 0
+    target 148
+    relation "would change"
+  ]
+  edge [
+    source 0
+    target 149
+    relation "described"
+  ]
+  edge [
+    source 0
+    target 150
+    relation "explains"
+  ]
+  edge [
+    source 0
+    target 151
+    relation "told"
+  ]
+  edge [
+    source 0
+    target 152
+    relation "believed"
+  ]
+  edge [
+    source 0
+    target 153
+    relation "studied"
+  ]
+  edge [
+    source 0
+    target 154
+    relation "viewed"
+  ]
+  edge [
+    source 0
+    target 155
+    relation "read"
+  ]
+  edge [
+    source 0
+    target 156
+    relation "had"
+  ]
+  edge [
+    source 0
+    target 157
+    relation "encouraged"
+  ]
+  edge [
+    source 0
+    target 158
+    relation "became"
+  ]
+  edge [
+    source 0
+    target 159
+    relation "criticised"
+  ]
+  edge [
+    source 0
+    target 160
+    relation "did criticise"
+  ]
+  edge [
+    source 0
+    target 161
+    relation "did not criticise"
+  ]
+  edge [
+    source 0
+    target 162
+    relation "won"
+  ]
+  edge [
+    source 0
+    target 163
+    relation "opposing"
+  ]
+  edge [
+    source 0
+    target 164
+    relation "gave"
+  ]
+  edge [
+    source 0
+    target 165
+    relation "called"
+  ]
+  edge [
+    source 0
+    target 166
+    relation "opposed"
+  ]
+  edge [
+    source 0
+    target 167
+    relation "began"
+  ]
+  edge [
+    source 0
+    target 168
+    relation "did not support"
+  ]
+  edge [
+    source 0
+    target 169
+    relation "justified"
+  ]
+  edge [
+    source 0
+    target 170
+    relation "did use"
+  ]
+  edge [
+    source 0
+    target 171
+    relation "discussed"
+  ]
+  edge [
+    source 0
+    target 172
+    relation "reiterated"
+  ]
+  edge [
+    source 0
+    target 173
+    relation "believed"
+  ]
+  edge [
+    source 0
+    target 174
+    relation "meant"
+  ]
+  edge [
+    source 0
+    target 175
+    relation "explored"
+  ]
+  edge [
+    source 0
+    target 176
+    relation "avoided"
+  ]
+  edge [
+    source 0
+    target 177
+    relation "wrote"
+  ]
+  edge [
+    source 0
+    target 178
+    relation "stated"
+  ]
+  edge [
+    source 0
+    target 179
+    relation "attempted"
+  ]
+  edge [
+    source 0
+    target 180
+    relation "tried"
+  ]
+  edge [
+    source 0
+    target 181
+    relation "avoided"
+  ]
+  edge [
+    source 0
+    target 183
+    relation "opposed"
+  ]
+  edge [
+    source 0
+    target 184
+    relation "credited"
+  ]
+  edge [
+    source 0
+    target 185
+    relation "used"
+  ]
+  edge [
+    source 0
+    target 186
+    relation "expressed"
+  ]
+  edge [
+    source 0
+    target 187
+    relation "began"
+  ]
+  edge [
+    source 0
+    target 188
+    relation "began"
+  ]
+  edge [
+    source 0
+    target 191
+    relation "referenced"
+  ]
+  edge [
+    source 0
+    target 192
+    relation "shared"
+  ]
+  edge [
+    source 0
+    target 193
+    relation "behaved"
+  ]
+  edge [
+    source 0
+    target 194
+    relation "not did"
+  ]
+  edge [
+    source 0
+    target 195
+    relation "called"
+  ]
+  edge [
+    source 0
+    target 196
+    relation "launched"
+  ]
+  edge [
+    source 0
+    target 197
+    relation "will befriend"
+  ]
+  edge [
+    source 0
+    target 198
+    relation "will spend"
+  ]
+  edge [
+    source 0
+    target 199
+    relation "began"
+  ]
+  edge [
+    source 0
+    target 200
+    relation "began"
+  ]
+  edge [
+    source 0
+    target 202
+    relation "faced"
+  ]
+  edge [
+    source 0
+    target 204
+    relation "encouraged"
+  ]
+  edge [
+    source 0
+    target 205
+    relation "favoured"
+  ]
+  edge [
+    source 0
+    target 206
+    relation "attempted"
+  ]
+  edge [
+    source 0
+    target 207
+    relation "emphasised"
+  ]
+  edge [
+    source 0
+    target 208
+    relation "received"
+  ]
+  edge [
+    source 0
+    target 209
+    relation "responded"
+  ]
+  edge [
+    source 0
+    target 210
+    relation "saw"
+  ]
+  edge [
+    source 0
+    target 213
+    relation "refused"
+  ]
+  edge [
+    source 0
+    target 214
+    relation "critiqued"
+  ]
+  edge [
+    source 0
+    target 215
+    relation "edited"
+  ]
+  edge [
+    source 0
+    target 216
+    relation "wrote"
+  ]
+  edge [
+    source 0
+    target 217
+    relation "bought"
+  ]
+  edge [
+    source 0
+    target 218
+    relation "revised"
+  ]
+  edge [
+    source 0
+    target 219
+    relation "wrote"
+  ]
+  edge [
+    source 0
+    target 221
+    relation "was named"
+  ]
+  edge [
+    source 0
+    target 222
+    relation "was named"
+  ]
+  edge [
+    source 0
+    target 224
+    relation "inspired"
+  ]
+  edge [
+    source 0
+    target 119
+    relation "started"
+  ]
+  edge [
+    source 0
+    target 227
+    relation "made"
+  ]
+  edge [
+    source 0
+    target 228
+    relation "did not receive"
+  ]
+  edge [
+    source 0
+    target 231
+    relation "is conferred"
+  ]
+  edge [
+    source 0
+    target 234
+    relation "realises"
+  ]
+  edge [
+    source 0
+    target 235
+    relation "was set"
+  ]
+  edge [
+    source 0
+    target 237
+    relation "is given"
+  ]
+  edge [
+    source 10
+    target 0
+    relation "assassinated"
+  ]
+  edge [
+    source 19
+    target 0
+    relation "anguished"
+  ]
+  edge [
+    source 23
+    target 0
+    relation "warned"
+  ]
+  edge [
+    source 25
+    target 0
+    relation "leads"
+  ]
+  edge [
+    source 26
+    target 0
+    relation "seeing"
+  ]
+  edge [
+    source 32
+    target 0
+    relation "encouraged"
+  ]
+  edge [
+    source 39
+    target 0
+    relation "ordered"
+  ]
+  edge [
+    source 42
+    target 0
+    relation "bothered"
+  ]
+  edge [
+    source 44
+    target 0
+    relation "celebrate"
+  ]
+  edge [
+    source 50
+    target 0
+    relation "attacked"
+  ]
+  edge [
+    source 58
+    target 0
+    relation "called"
+  ]
+  edge [
+    source 67
+    target 0
+    relation "invited"
+  ]
+  edge [
+    source 79
+    target 0
+    relation "warned"
+  ]
+  edge [
+    source 86
+    target 0
+    relation "led"
+  ]
+  edge [
+    source 98
+    target 0
+    relation "joined"
+  ]
+  edge [
+    source 100
+    target 0
+    relation "portrayed"
+  ]
+  edge [
+    source 107
+    target 0
+    relation "called"
+  ]
+  edge [
+    source 118
+    target 0
+    relation "called"
+  ]
+  edge [
+    source 119
+    target 0
+    relation "influenced"
+  ]
+  edge [
+    source 120
+    target 0
+    relation "present"
+  ]
+  edge [
+    source 121
+    target 0
+    relation "present"
+  ]
+  edge [
+    source 134
+    target 0
+    relation "had advised"
+  ]
+  edge [
+    source 140
+    target 0
+    relation "caricatured"
+  ]
+  edge [
+    source 143
+    target 0
+    relation "questioned"
+  ]
+  edge [
+    source 144
+    target 0
+    relation "disappointed"
+  ]
+  edge [
+    source 146
+    target 0
+    relation "embedded"
+  ]
+  edge [
+    source 182
+    target 0
+    relation "urged"
+  ]
+  edge [
+    source 189
+    target 0
+    relation "advised"
+  ]
+  edge [
+    source 190
+    target 0
+    relation "described"
+  ]
+  edge [
+    source 201
+    target 0
+    relation "described"
+  ]
+  edge [
+    source 203
+    target 0
+    relation "shook"
+  ]
+  edge [
+    source 211
+    target 0
+    relation "accused"
+  ]
+  edge [
+    source 212
+    target 0
+    relation "owned"
+  ]
+  edge [
+    source 220
+    target 0
+    relation "described"
+  ]
+  edge [
+    source 223
+    target 0
+    relation "was inspired"
+  ]
+  edge [
+    source 225
+    target 0
+    relation "called"
+  ]
+  edge [
+    source 226
+    target 0
+    relation "met"
+  ]
+  edge [
+    source 229
+    target 0
+    relation "describe"
+  ]
+  edge [
+    source 230
+    target 0
+    relation "addressed"
+  ]
+  edge [
+    source 232
+    target 0
+    relation "portrayed"
+  ]
+  edge [
+    source 233
+    target 0
+    relation "did not kill"
+  ]
+  edge [
+    source 236
+    target 0
+    relation "criticised"
+  ]
+]
